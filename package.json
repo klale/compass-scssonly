@@ -1,0 +1,19 @@
+{
+  "name": "compass-scssonly",
+  "version": "0.12.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klale/compass-scssonly.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/klale/compass-scssonly/issues"
+  },
+  "homepage": "https://github.com/klale/compass-scssonly#readme"
+}
